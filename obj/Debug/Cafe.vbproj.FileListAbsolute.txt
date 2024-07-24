@@ -1,0 +1,5 @@
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\Cafe.vbproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\Cafe.Form1.resources
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\Cafe.Resources.resources
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\Cafe.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\Cafe.vbproj.CoreCompileInputs.cache

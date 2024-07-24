@@ -1,0 +1,86 @@
+C:\Users\Acer\source\repos\kasir cafe\bin\Debug\kasir cafe.exe.config
+C:\Users\Acer\source\repos\kasir cafe\bin\Debug\kasir cafe.exe
+C:\Users\Acer\source\repos\kasir cafe\bin\Debug\kasir cafe.pdb
+C:\Users\Acer\source\repos\kasir cafe\bin\Debug\kasir cafe.xml
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir cafe.vbproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir_cafe.Form1.resources
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir_cafe.Resources.resources
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir cafe.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir cafe.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir cafe.exe
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir cafe.xml
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir cafe.pdb
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir_cafe.Form2.resources
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir_cafe.FormLoginUser.resources
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir_cafe.FormInputBarang.resources
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir_cafe.dashboardadmin.resources
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir_cafe.formInputKategori.resources
+C:\Users\Acer\source\repos\kasir cafe\obj\Debug\kasir_cafe.FormRincianPesanan.resources
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\bin\Debug\kasir cafe.exe.config
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\bin\Debug\kasir cafe.exe
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\bin\Debug\kasir cafe.pdb
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\bin\Debug\kasir cafe.xml
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir cafe.vbproj.AssemblyReference.cache
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir_cafe.dashboardadmin.resources
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir_cafe.Form1.resources
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir_cafe.Form2.resources
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir_cafe.FormInputBarang.resources
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir_cafe.formInputKategori.resources
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir_cafe.FormLoginUser.resources
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir_cafe.FormRincianPesanan.resources
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir_cafe.Resources.resources
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir cafe.vbproj.GenerateResource.cache
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir cafe.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir cafe.exe
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir cafe.xml
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir cafe.pdb
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir_cafe.FormRincianBarang.resources
+C:\Users\Gabriella A\OneDrive\Documents\Visual Studio 2022\Projects\kasir cafe 23 sept\kasir cafe\obj\Debug\kasir_cafe.FormRincianKategori.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\bin\Debug\kasir cafe.exe.config
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\bin\Debug\kasir cafe.exe
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\bin\Debug\kasir cafe.pdb
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\bin\Debug\kasir cafe.xml
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir cafe.vbproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.dashboardadmin.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.Form1.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.Form2.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.FormInputBarang.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.formInputKategori.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.FormLoginUser.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.formRincianBarang.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.FormRincianKategori.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.FormRincianPesanan.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.Resources.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir cafe.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir cafe.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir cafe.exe
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir cafe.xml
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir cafe.pdb
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.formRincianPelanggan.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.dashboardpelanggan.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.Formlaporanpenjualan.resources
+C:\Users\Acer\source\repos\kasir cafe 26 sept revisi lagi\kasir cafe\obj\Debug\kasir_cafe.formlaporanpenghasilan.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\bin\Debug\kasir cafe.exe.config
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\bin\Debug\kasir cafe.exe
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\bin\Debug\kasir cafe.pdb
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\bin\Debug\kasir cafe.xml
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir cafe.vbproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.dashboardadmin.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.dashboardpelanggan.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.Form1.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.Form2.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.FormInputBarang.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.formInputKategori.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.formlaporanpenghasilan.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.Formlaporanpenjualan.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.FormLoginUser.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.formRincianBarang.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.FormRincianKategori.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.formRincianPelanggan.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.FormRincianPesanan.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir_cafe.Resources.resources
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir cafe.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir cafe.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir cafe.exe
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir cafe.xml
+C:\Users\Acer\source\repos\proyek cafe harusnya udah lengkap\kasir cafe\obj\Debug\kasir cafe.pdb
